@@ -1,4 +1,4 @@
-# vim: expandtab:ts=4:sw=4
+
 import argparse
 import numpy as np
 import tensorflow as tf

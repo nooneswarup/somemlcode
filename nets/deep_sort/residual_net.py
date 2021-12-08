@@ -1,4 +1,3 @@
-# vim: expandtab:ts=4:sw=4
 import tensorflow as tf
 from tensorflow.contrib import slim
 
